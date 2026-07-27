@@ -8,7 +8,6 @@ Conseguir a primeira oportunidade em T.I. costuma ser um dos maiores desafios de
 
 - Como estruturar e revisar um currículo de T.I.
 - Como se preparar para processos seletivos e entrevistas técnicas
-- Caminhos de estudo para diferentes áreas (dev, suporte, dados, infra, QA, etc.)
 - Dicas práticas de quem já passou por esse processo
 
 O NotebookLM foi alimentado com **diversas fontes de texto e vídeo** selecionadas manualmente, permitindo que as respostas sejam sempre baseadas em conteúdo confiável e citável.
