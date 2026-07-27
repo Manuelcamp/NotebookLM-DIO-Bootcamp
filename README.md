@@ -21,8 +21,6 @@ O NotebookLM foi alimentado com **diversas fontes de texto e vídeo** selecionad
 
 ## 🔗 Acesse o NotebookLM
 
-> ⚠️ Substitua o link abaixo pelo link de compartilhamento do seu notebook (Google > Compartilhar > "Qualquer pessoa com o link").
-
 [Acessar o Notebook no NotebookLM](https://notebooklm.google.com/notebook/4ab479ea-e67e-487e-9549-a97331257ca8)
 
 ## 📚 Curadoria de Fontes
